@@ -6,4 +6,4 @@ Data Analysis (EDA), this project aims to identify patterns that influence used 
 insights to support buyers, sellers, and automotive industry stakeholders in making informed decisions.  
 
 
-[DOWNLOAD THE DATASET](https://www.kaggle.com/code/taichiuemura/used-car-prices/notebook)
+[DOWNLOAD THE DATASET](https://www.kaggle.com/datasets/sujay1844/used-car-prices)
