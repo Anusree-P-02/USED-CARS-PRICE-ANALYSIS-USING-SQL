@@ -1,4 +1,4 @@
-ABOUT THE DATASET
+ABOUT DATASET
 
 The used car market offers valuable insights into consumer preferences, vehicle performance over time, and pricing trends. This dataset encompasses key details 
 about various used cars, including make and model, mileage, engine specifications, ownership type, and pricing information. By performing a comprehensive Exploratory 
